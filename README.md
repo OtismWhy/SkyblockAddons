@@ -12,14 +12,18 @@ TirelessTraveler (aka ILikePlayingGames) for helping maintain the project.
 DidiSkywalker & CraftedFury (Nahydrin) for adding/PRing many incredible features!
 
 Thanks to YourKit!!
+
 ![image](https://user-images.githubusercontent.com/116082515/196427171-1f61fb2e-5b5c-49e0-bc38-ca8e84dc88b8.png)
+
 Big thank you to YourKit for supporting this project with their profiler to help us improve performance!
 
 YourKit supports open source projects with innovative and intelligent tools for monitoring and profiling Java and .NET applications. YourKit is the creator of YourKit Java Profiler, YourKit .NET Profiler, and YourKit YouMonitor.
 
 
 Thanks to Crowdin & Our Translators
+
 ![image](https://user-images.githubusercontent.com/116082515/196427241-5e1d241b-068f-4673-b040-4607b745aab9.png)
+
 Big thanks to Crowdin for supporting this project with their localization management platform to help us serve the mod in many languages! Check out their website here!
 
 Also thanks for our countless translators who help us translate this mod!
